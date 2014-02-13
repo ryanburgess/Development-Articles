@@ -3,6 +3,9 @@ Development-Articles
 
 A collection of links to web development articles covering topics like JavaScript, SASS, CSS, Grunt, NodeJS, Git, Accessibility and more.
 
+Feel free to contribute links to good articles.
+
+
 Git
 ----------
 
