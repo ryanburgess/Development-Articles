@@ -90,8 +90,6 @@ Grunt
 
 [Setting up Sass with Grunt](http://culttt.com/2013/11/18/setting-sass-grunt/)
 
-[Fixing “Skip to content” links](http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/)
-
 
 Accessibility
 ----------
@@ -103,6 +101,8 @@ Accessibility
 [Using the HTML title attribute](http://blog.paciellogroup.com/2013/01/using-the-html-title-attribute-updated/)
 
 [HTML5 Accessibility Chops: notes on using ARIA](http://blog.paciellogroup.com/2012/06/html5-accessibility-chops-using-aria-notes/)
+
+[Fixing “Skip to content” links](http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/)
 
 
 ## Contributing
