@@ -42,6 +42,12 @@ JavaScript
 
 [Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 
+[Best Practices When Working With JavaScript Templates](http://code.tutsplus.com/tutorials/best-practices-when-working-with-javascript-templates--net-28364)
+
+[Getting Started with Backbone.js](http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751)
+
+[Object properties in JavaScript](http://www.2ality.com/2012/10/javascript-properties.html)
+
 
 NodeJS
 ----------
