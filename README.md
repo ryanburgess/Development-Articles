@@ -15,20 +15,85 @@ Git
 JavaScript
 ----------
 
+[JavaScript the right way](http://jstherightway.org/)
+
+[Getting Over jQuery](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery)
+
+[A Dive Into Plain JavaScript](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
+
+[Understanding JavaScript OOP](http://robotlolita.github.io/2011/10/09/understanding-javascript-oop.html)
+
+[A Deeper Look at Objects in JavaScript](http://www.kirupa.com/html5/a_deeper_look_at_objects_in_javascript.htm)
+
+[Deploying JavaScript Applications](https://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
+
+[Revisiting JavaScript Objects](http://www.laktek.com/2012/12/29/revisiting-javascript-objects/)
+
+[Backbone.js Tips And Patterns](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
+
+[Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
+
+[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
+
+[Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
+
+[Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
+
+
 NodeJS
 ----------
 
-SASS
-----------
+[An Introduction to Node.js for Front-End Developers](http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/)
+
 
 SASS
 ----------
+
+[Sass Style Guide](http://css-tricks.com/sass-style-guide/)
+
+[MetaFizzy Effect with Sass](http://css-tricks.com/metafizzy-effect-with-sass/)
+
+[Conditional Media Query Mixins](http://css-tricks.com/conditional-media-query-mixins/)
+
+[Making Sass talk to JavaScript with JSON](http://css-tricks.com/making-sass-talk-to-javascript-with-json/)
+
+
+CSS
+----------
+
+[Preventing the Performance Hit from Custom Fonts](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
+
+[Why Responsive Images Is So Hard](https://www.readability.com/articles/paaucghp)
+
+[In Defense Of Rem Units](http://techtime.getharvest.com/blog/in-defense-of-rem-units)
+
+[Bandwidth Media Queries? We Don’t Need ’Em!](http://mobile.smashingmagazine.com/2013/01/09/bandwidth-media-queries-we-dont-need-em/)
+
+[CSS-Only Responsive Layout with Smooth Transitions](http://tympanus.net/codrops/2012/06/12/css-only-responsive-layout-with-smooth-transitions/)
+
+[Styling your apps with Twitter Bootstrap](http://www.adobe.com/devnet/html5/articles/twitter-bootstrap.html)
+
 
 Grunt
 ----------
 
+[Grunt for People Who Think Things Like Grunt are Weird and Hard](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
+
+[Setting up Sass with Grunt](http://culttt.com/2013/11/18/setting-sass-grunt/)
+
+[Fixing “Skip to content” links](http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/)
+
+
 Accessibility
 ----------
+
+[Using WAI-ARIA Landmarks – 2013](http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/)
+
+[Coding Towards Accessibility](http://24ways.org/2013/coding-towards-accessibility/)
+
+[Using the HTML title attribute](http://blog.paciellogroup.com/2013/01/using-the-html-title-attribute-updated/)
+
+[HTML5 Accessibility Chops: notes on using ARIA](http://blog.paciellogroup.com/2012/06/html5-accessibility-chops-using-aria-notes/)
 
 
 ## Contributing
