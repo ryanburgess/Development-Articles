@@ -52,6 +52,8 @@ JavaScript
 NodeJS
 ----------
 
+[Node School](http://nodeschool.io/)
+
 [An Introduction to Node.js for Front-End Developers](http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/)
 
 [How To Build A CLI Tool With Node.js And PhantomJS](http://coding.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/)
