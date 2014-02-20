@@ -22,6 +22,8 @@ JavaScript
 
 [Getting Over jQuery](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery)
 
+[You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+
 [A Dive Into Plain JavaScript](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
 
 [Understanding JavaScript OOP](http://robotlolita.github.io/2011/10/09/understanding-javascript-oop.html)
