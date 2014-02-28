@@ -15,6 +15,10 @@ Git
 
 [Get Started With GitHub Pages](http://24ways.org/2013/get-started-with-github-pages/)
 
+[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+
+[A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+
 JavaScript
 ----------
 
@@ -50,6 +54,13 @@ JavaScript
 
 [Object properties in JavaScript](http://www.2ality.com/2012/10/javascript-properties.html)
 
+
+General Web Theory
+----------
+
+[A Dao of Web Design](http://alistapart.com/article/dao)
+
+[Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 
 NodeJS
 ----------
