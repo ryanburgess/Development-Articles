@@ -112,6 +112,8 @@ Accessibility
 
 [Fixing “Skip to content” links](http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/)
 
+[Using the HTML title attribute](http://blog.paciellogroup.com/2010/11/using-the-html-title-attribute/)
+
 
 ## Contributing
 
