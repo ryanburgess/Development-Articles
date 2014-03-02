@@ -71,6 +71,8 @@ NodeJS
 
 [How To Build A CLI Tool With Node.js And PhantomJS](http://coding.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/)
 
+[Creating a basic site with Node.js and Express](http://shapeshed.com/creating-a-basic-site-with-node-and-express/)
+
 
 SASS
 ----------
