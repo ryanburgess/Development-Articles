@@ -54,6 +54,11 @@ JavaScript
 
 [Object properties in JavaScript](http://www.2ality.com/2012/10/javascript-properties.html)
 
+[JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+[JavaScript Allonge](https://leanpub.com/javascript-allonge)
+
+[Codecademy Self-Paced JavaScript Course](http://www.codecademy.com/tracks/javascript)
 
 General Web Theory
 ----------
