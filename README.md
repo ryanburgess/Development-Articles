@@ -19,6 +19,8 @@ Git
 
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+[A simple Git deployment strategy for static sites](http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/)
+
 JavaScript
 ----------
 
