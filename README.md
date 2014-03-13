@@ -80,6 +80,8 @@ NodeJS
 
 [Creating a basic site with Node.js and Express](http://shapeshed.com/creating-a-basic-site-with-node-and-express/)
 
+[Getting Started with Express](http://howtonode.org/getting-started-with-express)
+
 
 SASS
 ----------
