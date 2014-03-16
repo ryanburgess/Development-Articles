@@ -61,10 +61,17 @@ JavaScript
 
 [Codecademy Self-Paced JavaScript Course](http://www.codecademy.com/tracks/javascript)
 
-AngularJS
+Angular JS
 ----------
 
 [How to Learn AngularJS - Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
+
+Ember JS
+----------
+
+[An In-Depth Introduction To Ember.js](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+
+[Flame on! A beginner's guide to Ember.js](http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html)
 
 Backbone JS
 ----------
