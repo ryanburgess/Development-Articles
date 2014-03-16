@@ -47,8 +47,6 @@ JavaScript
 
 [Revisiting JavaScript Objects](http://www.laktek.com/2012/12/29/revisiting-javascript-objects/)
 
-[Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
-
 [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
 
 [Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
