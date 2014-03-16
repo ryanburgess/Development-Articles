@@ -5,6 +5,13 @@ A collection of links to web development articles covering topics like JavaScrip
 
 Feel free to contribute links to good articles.
 
+General Web Theory
+----------
+
+[A Dao of Web Design](http://alistapart.com/article/dao)
+
+[Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+
 
 Git
 ----------
@@ -40,19 +47,13 @@ JavaScript
 
 [Revisiting JavaScript Objects](http://www.laktek.com/2012/12/29/revisiting-javascript-objects/)
 
-[Backbone.js Tips And Patterns](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
-
 [Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
 
 [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
 
-[Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
-
 [Journey Through The JavaScript MVC Jungle](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 
 [Best Practices When Working With JavaScript Templates](http://code.tutsplus.com/tutorials/best-practices-when-working-with-javascript-templates--net-28364)
-
-[Getting Started with Backbone.js](http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751)
 
 [Object properties in JavaScript](http://www.2ality.com/2012/10/javascript-properties.html)
 
@@ -62,12 +63,22 @@ JavaScript
 
 [Codecademy Self-Paced JavaScript Course](http://www.codecademy.com/tracks/javascript)
 
-General Web Theory
+AngularJS
 ----------
 
-[A Dao of Web Design](http://alistapart.com/article/dao)
+[How to Learn AngularJS - Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 
-[Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+Backbone JS
+----------
+
+[Getting Started with Backbone.js](http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751)
+
+[Backbone.js Tips And Patterns](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
+
+Knockout JS
+----------
+
+[Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
 
 NodeJS
 ----------
