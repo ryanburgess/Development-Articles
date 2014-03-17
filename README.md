@@ -66,6 +66,10 @@ Angular JS
 
 [How to Learn AngularJS - Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 
+[Building a Web App From Scratch in AngularJS](http://code.tutsplus.com/tutorials/building-a-web-app-from-scratch-in-angularjs--net-32944)
+
+[AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/angularjs/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
+
 Ember JS
 ----------
 
