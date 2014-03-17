@@ -142,6 +142,15 @@ Grunt
 
 [Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
 
+Gulp
+----------
+
+[An Introduction to Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
+
+[Managing Your Build Tasks With Gulp.js](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
+
+[Quick intro to Gulp.js](http://www.codefellows.org/blogs/quick-intro-to-gulp-js)
+
 
 Accessibility
 ----------
