@@ -167,6 +167,8 @@ Accessibility
 
 [Using the HTML title attribute](http://blog.paciellogroup.com/2010/11/using-the-html-title-attribute/)
 
+[Accessibility and Building a web for everyone because sometimes it's not all about us](http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/)
+
 
 ## Contributing
 
