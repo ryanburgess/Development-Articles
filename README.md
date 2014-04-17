@@ -61,6 +61,8 @@ JavaScript
 
 [Codecademy Self-Paced JavaScript Course](http://www.codecademy.com/tracks/javascript)
 
+[Speaking JavaScript](http://speakingjs.com/)
+
 Angular JS
 ----------
 
