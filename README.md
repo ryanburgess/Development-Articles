@@ -148,6 +148,8 @@ Grunt
 
 [Grunt And Gulp Tasks For Performance Optimization](http://yeoman.io/blog/performance-optimization.html)
 
+[Getting started with Grunticon](http://blog.iconfinder.com/get-started-with-grunticon/)
+
 Gulp
 ----------
 
