@@ -63,6 +63,8 @@ JavaScript
 
 [Speaking JavaScript](http://speakingjs.com/)
 
+[Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
+
 Angular JS
 ----------
 
