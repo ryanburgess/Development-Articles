@@ -1,4 +1,4 @@
-Development-Articles
+Development Articles
 ====================
 
 A collection of links to web development articles covering topics like JavaScript, SASS, CSS, Grunt, NodeJS, Git, Accessibility and more.
