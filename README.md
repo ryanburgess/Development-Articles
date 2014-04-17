@@ -120,6 +120,8 @@ SASS
 
 [Making Sass talk to JavaScript with JSON](http://css-tricks.com/making-sass-talk-to-javascript-with-json/)
 
+[Is Libsass, the lightning fast Sass compiler ready for prime time?](http://benfrain.com/libsass-lightning-fast-sass-compiler-ready-prime-time/)
+
 
 CSS
 ----------
