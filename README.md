@@ -61,7 +61,7 @@ JavaScript
 
 [Codecademy Self-Paced JavaScript Course](http://www.codecademy.com/tracks/javascript)
 
-[Speaking JavaScript](http://speakingjs.com/)
+[Speaking JavaScript](http://speakingjs.com/es5/index.html)
 
 [Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
 
