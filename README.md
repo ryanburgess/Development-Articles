@@ -140,6 +140,8 @@ CSS
 
 [Styling your apps with Twitter Bootstrap](http://www.adobe.com/devnet/html5/articles/twitter-bootstrap.html)
 
+[Animating SVG CSS](http://css-tricks.com/animating-svg-css/)
+
 
 Grunt
 ----------
