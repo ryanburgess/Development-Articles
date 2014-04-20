@@ -28,6 +28,8 @@ Git
 
 [A simple Git deployment strategy for static sites](http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/)
 
+[How to Deal with Merge Conflicts in Git](http://css-tricks.com/deal-merge-conflicts-git/)
+
 JavaScript
 ----------
 
