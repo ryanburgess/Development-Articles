@@ -12,6 +12,8 @@ General Web Theory
 
 [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 
+[Web Field Manual](http://webfieldmanual.com/)
+
 
 Git
 ----------
