@@ -69,6 +69,10 @@ JavaScript
 
 [Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
 
+[Choosing a JS Framework](http://todomvc.com/)
+
+
+
 Angular JS
 ----------
 
