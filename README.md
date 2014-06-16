@@ -189,6 +189,9 @@ Accessibility
 
 [Accessibility and Building a web for everyone because sometimes it's not all about us](http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/)
 
+[Easy Checks for Website Accessibility](http://www.sitepoint.com/easy-checks-website-accessibility/)
+
+[Ethical Dilemmas in Web Accessibility](http://www.sitepoint.com/ethical-dilemmas-web-accessibility/)
 
 ## Contributing
 
