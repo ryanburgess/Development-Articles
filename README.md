@@ -193,6 +193,16 @@ Accessibility
 
 [Ethical Dilemmas in Web Accessibility](http://www.sitepoint.com/ethical-dilemmas-web-accessibility/)
 
+
+HTML Email
+----------
+[Creating a centered, responsive design without media queries](https://www.campaignmonitor.com/blog/email-marketing/2014/07/creating-a-centred-responsive-design-without-media-queries/)
+
+[Creating a Future-Proof Responsive Email Without Media Queries](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
+
+[THE HYBRID CODING APPROACH](http://labs.actionrocket.co/the-hybrid-coding-approach)
+
+
 ## Contributing
 
 1. Fork it
